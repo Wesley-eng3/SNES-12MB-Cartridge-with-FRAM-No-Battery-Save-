@@ -1,5 +1,3 @@
-# SNES-12MB-Cartridge-with-FRAM-No-Battery-Save-
-
 # SNES 12MB Cartridge with FRAM (No Battery Save)
 
 This project is a custom Super Nintendo (SNES) cartridge design featuring up to **12MB of ROM** and **non-volatile FRAM** for save data, eliminating the need for a battery.
