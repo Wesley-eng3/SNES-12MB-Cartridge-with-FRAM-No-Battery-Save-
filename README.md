@@ -37,6 +37,10 @@ This project is a custom Super Nintendo (SNES) cartridge design featuring up to 
 
 <img width="2643" height="1105" alt="Schematic" src="https://github.com/user-attachments/assets/22e5431c-e28b-4bb3-9047-3018d34d7c33" />
 
+Eagle Tool view
+
+<img width="1027" height="882" alt="Eagle" src="https://github.com/user-attachments/assets/b806bc44-a8d9-409b-8693-01f3148549f3" />
+
 Top PCB Layer
 
 <img width="808" height="607" alt="Top" src="https://github.com/user-attachments/assets/647d7708-3e9e-4b59-91fd-4fde708d1326" />
